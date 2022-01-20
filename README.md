@@ -1,0 +1,2 @@
+# opening-test-inf
+Test.
